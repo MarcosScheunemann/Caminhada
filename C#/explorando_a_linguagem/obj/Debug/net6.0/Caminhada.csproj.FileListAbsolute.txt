@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\bin\Debug\net6.0\Caminhada.exe
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\bin\Debug\net6.0\Caminhada.deps.json
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\bin\Debug\net6.0\Caminhada.runtimeconfig.json
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\bin\Debug\net6.0\Caminhada.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\bin\Debug\net6.0\Caminhada.pdb
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\refint\Caminhada.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.pdb
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\Caminhada.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\obj\Debug\net6.0\ref\Caminhada.dll

@@ -1,0 +1,11 @@
+// Aqui foi feito de forma direta compilado por console
+
+using System;
+
+class Programa
+{
+    static void Main (string[] args)
+    {
+        Console.WriteLine("Olá,mundo, este é meu primeiro programa");
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\bin\Debug\net6.0\1-Olamundo.exe
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\bin\Debug\net6.0\1-Olamundo.deps.json
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\bin\Debug\net6.0\1-Olamundo.runtimeconfig.json
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\bin\Debug\net6.0\1-Olamundo.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\bin\Debug\net6.0\1-Olamundo.pdb
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\refint\1-Olamundo.dll
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.pdb
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\1-Olamundo.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\python\git\Caminhada\C#\explorando_a_linguagem\aprendendo_CSharp\1-Olamundo\obj\Debug\net6.0\ref\1-Olamundo.dll

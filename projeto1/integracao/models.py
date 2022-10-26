@@ -5,5 +5,5 @@ from django.db import models
 class Video(models.Model):
     id = models.CharField(max_length=10, primary_key=True)
     titulo = models.CharField(max_length=30)
-    descricao = models.CharField(max_length=500)
+    descricao = models.CharField(max_length=1500)
     url = models.CharField(max_length=300)

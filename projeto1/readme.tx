@@ -1,3 +1,8 @@
 Esta é um projeto para colocar em prática meus conhecimentos.
 
-em breve mais atualizações.
+inicialização de um projeto para uma plataforma de compartilhamento de vídeos.
+Utilizações para o projeto:
+-Linguagens: Python, HTML, e SQL pra banco de dados.
+-Frameworks: Django, DjangoRest API, MySQL.
+-Utilização de VCcode como interpretador.
+-Utilização de formatos Json
